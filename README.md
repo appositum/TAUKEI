@@ -1,13 +1,13 @@
-<div align="center"> 
-<h2> TAUKEI</h2> 
-</div>
+
+# TAUKEI 
 
 
-<h3>A Discord bot written in python.</h3>
+
+A Discord bot written in python.
 
 [![Python](https://img.shields.io/badge/python-3.5.4-blue.svg)](https://www.python.org)
 <br>
-<h3>Setup</h3>
+###Setup
 ```bash
 $ git clone https://github.com/ascustodio/TAUKEI.git
 $ cd TAUKEI/taukei
