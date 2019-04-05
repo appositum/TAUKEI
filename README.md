@@ -1,6 +1,6 @@
 
 # TAUKEI 
-
+<img src="taukei.png">
 
 
 A Discord bot written in python. (not finished)
