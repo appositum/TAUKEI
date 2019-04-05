@@ -5,7 +5,7 @@
 
 A Discord bot written in python.
 
-[![Python](https://img.shields.io/badge/python-3.5.4-blue.svg)](https://www.python.org)
+[![Python(https://img.shields.io/badge/python-3.5.4-blue.svg)](https://www.python.org)
 
 ###Setup
 ```bash
