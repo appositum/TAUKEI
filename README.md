@@ -2,8 +2,8 @@
 <h2> TAUKEI</h2> 
 </div>
 
-<hr>
-<h3>A Discord bot written in python.<h3>
+
+<h3>A Discord bot written in python.</h3>
 
 [![Python](https://img.shields.io/badge/python-3.5.4-blue.svg)](https://www.python.org)
 <br>
