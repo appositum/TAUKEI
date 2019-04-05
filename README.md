@@ -6,7 +6,7 @@
 A Discord bot written in python.
 
 [![Python](https://img.shields.io/badge/python-3.5.4-blue.svg)](https://www.python.org)
-<br>
+
 ###Setup
 ```bash
 $ git clone https://github.com/ascustodio/TAUKEI.git
