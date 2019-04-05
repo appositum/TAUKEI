@@ -1,5 +1,5 @@
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 # TAUKEI 
 <img src="taukei.png">
 
@@ -54,7 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://twitter.com/sqdorte"><img src="https://avatars2.githubusercontent.com/u/38764914?v=4" width="100px;" alt="calypso"/><br /><sub><b>calypso</b></sub></a><br /><a href="https://github.com/ascustodio/TAUKEI/commits?author=sqdorte" title="Tests">⚠️</a> <a href="https://github.com/ascustodio/TAUKEI/commits?author=sqdorte" title="Code">💻</a></td></tr></table>
+<table><tr><td align="center"><a href="https://twitter.com/sqdorte"><img src="https://avatars2.githubusercontent.com/u/38764914?v=4" width="100px;" alt="calypso"/><br /><sub><b>calypso</b></sub></a><br /><a href="https://github.com/ascustodio/TAUKEI/commits?author=sqdorte" title="Tests">⚠️</a> <a href="https://github.com/ascustodio/TAUKEI/commits?author=sqdorte" title="Code">💻</a></td><td align="center"><a href="https://github.com/appositum"><img src="https://avatars0.githubusercontent.com/u/21044944?v=4" width="100px;" alt="eddie"/><br /><sub><b>eddie</b></sub></a><br /><a href="#design-appositum" title="Design">🎨</a> <a href="https://github.com/ascustodio/TAUKEI/commits?author=appositum" title="Documentation">📖</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
