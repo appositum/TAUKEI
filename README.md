@@ -3,7 +3,7 @@
 
 
 
-A Discord bot written in python.
+A Discord bot written in python. (not finished)
 
 [![Python](https://img.shields.io/badge/python-3.5.4-blue.svg)](https://www.python.org)
 
