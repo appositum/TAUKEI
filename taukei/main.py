@@ -40,18 +40,18 @@ async def on_ready():
     print(client.user.name)
     print(client.user.id)
     if language == "pt":
-        print("Eu sou TAUKEI, ta ok? ?help para saber mais comandos")
+        print("Eu sou TAUKEI, ta ok? +help para saber mais comandos")
     elif language == "en":
-        print("I am... TAUKEI... (sorry this joke doesn't work in english ;-;) /help for commands")
+        print("I am... TAUKEI... (sorry this joke doesn't work in english ;-;) +help for commands")
 @client.event
 async def on_message(message):
     if message.author == client.user:
         return
     if language == "pt":
-        if message.content.startswith("?oi"):
+        if message.content.startswith("+oi"):
             await client.send_message(message.channel, "Olá amigão, meu nome é TAUKEI... ta ok?")
     elif language == "en":
-        if message.content.startswith("?hello"):
+        if message.content.startswith("+hello"):
          await client.send_message(message.channel, "Hey kiddo, my name is TAUKEI. Good to see you.")
          await client.send_message(message.channel, "so good :weary: ...")
 client.run(TOKEN) 
